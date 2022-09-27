@@ -38,3 +38,5 @@ Aliexpress: https://www.aliexpress.us/item/2255800671070360.html
 eBay: https://www.ebay.com/itm/394043494907
 
 If you want to use the flipper as a bulk ESP-01s programmer, I recommend a 2x4 pin socket for the modules. 
+
+As for the PCB, you may be able order from me, I might have some left. Otherwise, you can get them cheaply by uploading the pcb gerber zip file in this repo to jlcpcb.com using default settings and lowest shipping rate, it would cost roughly $5.47 for 5 boards and would take a couple weeks as they come from China. For convenience and speed, I may put the PCBs up on Tindie. Just let me know on twitter or discord and I can direct you to the best resource. 
