@@ -1,6 +1,6 @@
 # FlipperZeroESPexpansion
  Flipper Zero ESP-01s Wifi Expansion Module
-![20220926_133545](https://user-images.githubusercontent.com/35648759/192592396-be1f0fed-1ad8-4db6-abda-740442b20c4f.jpg)
+![Screenshot_1](https://user-images.githubusercontent.com/35648759/193376133-197d9094-1b14-46ee-a3b7-923488f23fe3.png)
 
 # Firstly a warning. DO NOT HOTPLUG ANY MODULES. Please turn the flipper off before inserting.
 
