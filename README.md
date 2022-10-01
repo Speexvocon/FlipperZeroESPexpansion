@@ -1,6 +1,6 @@
 # FlipperZeroESPexpansion
 Flipper Zero ESP-01s Wifi Expansion Module
- 
+This module supports the SequoiaSan Wifi Scanner Plugin and the Timmotools ESP8266 Wifi Deauther Plugin
 ![Screenshot_1](https://user-images.githubusercontent.com/35648759/193376133-197d9094-1b14-46ee-a3b7-923488f23fe3.png)
 
 # Firstly a warning. DO NOT HOTPLUG ANY MODULES. Please turn the flipper off before inserting.
