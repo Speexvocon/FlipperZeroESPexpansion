@@ -4,6 +4,8 @@
 
 # Firstly a warning. DO NOT HOTPLUG ANY MODULES. Please turn the flipper off before inserting.
 
+Purchase here: (https://www.tindie.com/products/speexvocon/flipper-zero-esp-01s-module/)
+
 # Parts and Assembly
 
 This module is low on parts count so they should be easily sourced. 
