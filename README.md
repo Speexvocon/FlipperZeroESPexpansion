@@ -67,5 +67,6 @@ To program with the flipper:
 	hit the back button
 	Plug into the computer
 	Two serial ports should show. Select the one with the highest number, (for me it showed 14 and 16, so I chose 16)
+	EDIT: this may not be the case, so try one port, if that doesn't work, try the other.
 	
 Now you should be ready for the webflasher (linked above)
