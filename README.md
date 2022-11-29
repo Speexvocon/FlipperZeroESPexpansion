@@ -59,7 +59,7 @@ To program with the flipper:
 
 	Goto GPIO
 	Select USB-UART bridge
-	Hit the left arrow buttong to enter CONFIG
+	Hit the left arrow button to enter CONFIG
 	Set USB Channel to 1
 	Baudrate to Host
 	Uart Pins 13,14
