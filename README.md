@@ -51,9 +51,9 @@ Programming the module can be done via webflasher [here](https://speexvocon.gith
 
 To put the module into program mode:
 	
-		First, hold down the PrgEN button.
-		While holding the PrgEN button, press the reset button.
-		Let go of both. If you did this correctly, you should be in program mode.
+	First, hold down the PrgEN button.
+	While holding the PrgEN button, press the reset button.
+	Let go of both. If you did this correctly, you should be in program mode.
 		
 To program with the flipper:
 
