@@ -53,7 +53,7 @@ To put the module into program mode:
 	
 	First, hold down the PrgEN button.
 	While holding the PrgEN button, press the reset button.
-	Let go of both. If you did this correctly, you should be in program mode.
+	Let go of reset, then let go of PrgEN. If you did this correctly, you should be in program mode.
 		
 To program with the flipper:
 
